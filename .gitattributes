@@ -1,2 +1,2 @@
-bootstrap-5.3.5-dist/* linguist-vendored
-fontawesome/* linguist-vendored
+bootstrap-5.3.5-dist/** linguist-vendored
+fontawesome/** linguist-vendored
